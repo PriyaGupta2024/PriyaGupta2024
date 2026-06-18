@@ -22,7 +22,7 @@ Frontend:
 React.js • JavaScript • HTML • CSS • Tailwind CSS
 
 Backend:
-Python • Django • Flask • FastAPI
+Python • Django • Flask • FastAPI • Nodejs 
 
 Database:
 MySQL • PostgreSQL • Supabase
@@ -34,26 +34,20 @@ Git • GitHub • VS Code • Postman
 
 ## 🚀 Featured Projects
 
-### CRM Portal
-Role-based CRM system with user management and billing modules.
+### 🍽️ ShareBite
+A food-sharing platform that connects food donors with NGOs and individuals to reduce food wastage and support communities in need. Built with modern web technologies to enable seamless food donation and distribution.
 
-### AI Task Validation System
-AI-powered validation using embeddings and cosine similarity.
+### 👨‍💼 Employee Management System
+A web-based employee management solution for managing employee records, attendance, roles, and organizational workflows. Designed to simplify HR operations and improve workforce management.
 
-### RAG Chatbot
-Context-aware chatbot using FAISS and LLM APIs.
-
-### Blind Friendly Traffic Signal
-Research-based solution for visually impaired pedestrians.
-
-### Sorting Algorithm Visualizer
-Interactive visualization of sorting algorithms.
+### 🤟 Learning Platform for Deaf and Mute Individuals
+An interactive learning platform aimed at improving communication and education accessibility for deaf and mute individuals through sign language recognition and learning modules powered by AI and computer vision.
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: [LinkedIn: MY_LINKEDIN](https://www.linkedin.com/in/priya-gupta-805b54286/)
+💼 LinkedIn: [MY_LINKEDIN](https://www.linkedin.com/in/priya-gupta-805b54286/)
 
 📧 Email: [priyaguptaxy7@gmail.com](mailto:priyaguptaxy7@gmail.com)
 
